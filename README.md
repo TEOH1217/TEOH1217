@@ -11,12 +11,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 </div>
 
  <h1>Hi there 👋</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="300"/>
-</div>
+
 <!--
 **TEOH1217/TEOH1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
