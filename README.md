@@ -25,7 +25,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.icons8.com/plasticine/344/facebook-new.png&logoColor=white)](https://www.facebook.com/CheeHong1217)
+- :mailbox:How to reach me: [(https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/CheeHong1217)
  <h1>Hi there 👋</h1>
 
 <!--
