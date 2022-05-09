@@ -18,7 +18,7 @@
 </div>
 
  <h1>Hi there 👋</h1>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.
+<p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.</P>
 <!--
 **TEOH1217/TEOH1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
