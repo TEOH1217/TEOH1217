@@ -1,4 +1,3 @@
-<h1>Hi there 👋</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
   <div id="badges">
@@ -35,9 +34,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="40"/>
 </div>
+<br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEOH1217&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEOH1217&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
