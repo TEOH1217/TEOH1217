@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ### Hi there 👋
 
 <!--
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEOH1217&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEOH1217&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
