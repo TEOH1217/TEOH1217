@@ -48,7 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEOH1217&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://camo.githubusercontent.com/bfea17e5dc24301cced01b863d5b69ebc80c76eb8bb049a91da9735ac3ea92b1/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6a756e7869616e343238267468656d653d64726163756c61">
+![alt text](https://github-profile-trophy.vercel.app/?username=TEOH1217&theme=tokyonight)
 <!--
 **TEOH1217/TEOH1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
