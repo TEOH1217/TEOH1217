@@ -15,12 +15,12 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-
- <h1>Hi there 👋</h1>
-<p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.</P>
-
 </div>
+
+
+<p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.</P>
+ <h1>Hi there 👋</h1>
+
 <!--
 **TEOH1217/TEOH1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
