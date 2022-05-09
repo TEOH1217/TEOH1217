@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
- Hi there 👋
+ <h1>Hi there 👋</h1>
 
 <!--
 **TEOH1217/TEOH1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
