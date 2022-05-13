@@ -21,7 +21,7 @@
 <h1>Hi there 👋</h1>
 
 ### :woman_technologist: About Me :
-<p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.</P>
+<p>I am a newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.</P>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
